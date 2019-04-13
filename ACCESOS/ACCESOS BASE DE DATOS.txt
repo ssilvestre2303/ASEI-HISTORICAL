@@ -1,0 +1,15 @@
+BD Replica
+host: 35.231.96.40
+puerto: 3306
+usuario: u_asei
+password: iexooNai6euda6
+bd: db_nexo_prod
+
+
+
+BD Staging
+host: 35.231.96.40
+puerto: 3307
+usuario: u_asei
+password: iexooNai6euda6
+bd: db_nexo_staging
